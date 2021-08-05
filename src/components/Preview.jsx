@@ -20,4 +20,4 @@ const Preview = ({cards}) => (
     </section>
 );
 
-export default Preview;childeye/nodejs-react-cardMaker
+export default Preview;
